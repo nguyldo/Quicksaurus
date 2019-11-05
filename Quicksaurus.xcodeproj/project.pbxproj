@@ -7,21 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A6309F6C933B14FF61813AE2 /* Pods_Quicksaurus.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1499BACF69DD725BD857206 /* Pods_Quicksaurus.framework */; };
+		CB32A8311F2E582B0038EDD6 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB32A8301F2E582B0038EDD6 /* HomeViewController.swift */; };
+		CB32A83A1F2E5F040038EDD6 /* San Francisco Pro.pkg in Resources */ = {isa = PBXBuildFile; fileRef = CB32A8381F2E5F040038EDD6 /* San Francisco Pro.pkg */; };
+		CB32A83B1F2E5F040038EDD6 /* SF Pro Font License.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CB32A8391F2E5F040038EDD6 /* SF Pro Font License.rtf */; };
+		CB8561161F30E11800FC0EB2 /* HeaderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8561151F30E11800FC0EB2 /* HeaderTableViewCell.swift */; };
 		CBB6413B1F2BC29200B0C52C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB6413A1F2BC29200B0C52C /* AppDelegate.swift */; };
-		CBB6413D1F2BC29200B0C52C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB6413C1F2BC29200B0C52C /* ViewController.swift */; };
 		CBB641401F2BC29300B0C52C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBB6413E1F2BC29300B0C52C /* Main.storyboard */; };
 		CBB641421F2BC29300B0C52C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBB641411F2BC29300B0C52C /* Assets.xcassets */; };
 		CBB641451F2BC29300B0C52C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBB641431F2BC29300B0C52C /* LaunchScreen.storyboard */; };
+		CBFA58191F2E7FF800250A0D /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBFA58181F2E7FF800250A0D /* Word.swift */; };
+		CBFA581C1F2E887A00250A0D /* WordTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBFA581B1F2E887A00250A0D /* WordTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A7FB9BEAFC4ED832278BE879 /* Pods-Quicksaurus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Quicksaurus.release.xcconfig"; path = "Pods/Target Support Files/Pods-Quicksaurus/Pods-Quicksaurus.release.xcconfig"; sourceTree = "<group>"; };
+		C1499BACF69DD725BD857206 /* Pods_Quicksaurus.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Quicksaurus.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB32A8301F2E582B0038EDD6 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		CB32A8381F2E5F040038EDD6 /* San Francisco Pro.pkg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "San Francisco Pro.pkg"; sourceTree = "<group>"; };
+		CB32A8391F2E5F040038EDD6 /* SF Pro Font License.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "SF Pro Font License.rtf"; sourceTree = "<group>"; };
+		CB8561151F30E11800FC0EB2 /* HeaderTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderTableViewCell.swift; sourceTree = "<group>"; };
 		CBB641371F2BC29200B0C52C /* Quicksaurus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quicksaurus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBB6413A1F2BC29200B0C52C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CBB6413C1F2BC29200B0C52C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CBB6413F1F2BC29300B0C52C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CBB641411F2BC29300B0C52C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBB641441F2BC29300B0C52C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CBB641461F2BC29300B0C52C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CBFA58181F2E7FF800250A0D /* Word.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		CBFA581B1F2E887A00250A0D /* WordTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordTableViewCell.swift; sourceTree = "<group>"; };
+		FA8C161EDC425792BB58A754 /* Pods-Quicksaurus.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Quicksaurus.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Quicksaurus/Pods-Quicksaurus.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +43,54 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6309F6C933B14FF61813AE2 /* Pods_Quicksaurus.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		13D536A9D3E88E40D61551B1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C1499BACF69DD725BD857206 /* Pods_Quicksaurus.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		55BAF15BE61EDAB8AA195A5C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FA8C161EDC425792BB58A754 /* Pods-Quicksaurus.debug.xcconfig */,
+				A7FB9BEAFC4ED832278BE879 /* Pods-Quicksaurus.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		CB32A82F1F2E58060038EDD6 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				CB32A8301F2E582B0038EDD6 /* HomeViewController.swift */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		CB32A8371F2E5F040038EDD6 /* SFPro */ = {
+			isa = PBXGroup;
+			children = (
+				CB32A8381F2E5F040038EDD6 /* San Francisco Pro.pkg */,
+				CB32A8391F2E5F040038EDD6 /* SF Pro Font License.rtf */,
+			);
+			path = SFPro;
+			sourceTree = "<group>";
+		};
 		CBB6412E1F2BC29200B0C52C = {
 			isa = PBXGroup;
 			children = (
 				CBB641391F2BC29200B0C52C /* Quicksaurus */,
 				CBB641381F2BC29200B0C52C /* Products */,
+				55BAF15BE61EDAB8AA195A5C /* Pods */,
+				13D536A9D3E88E40D61551B1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +105,34 @@
 		CBB641391F2BC29200B0C52C /* Quicksaurus */ = {
 			isa = PBXGroup;
 			children = (
+				CBFA581A1F2E885500250A0D /* View */,
+				CBFA58151F2E733500250A0D /* Model */,
+				CB32A8371F2E5F040038EDD6 /* SFPro */,
+				CB32A82F1F2E58060038EDD6 /* ViewController */,
 				CBB6413A1F2BC29200B0C52C /* AppDelegate.swift */,
-				CBB6413C1F2BC29200B0C52C /* ViewController.swift */,
 				CBB6413E1F2BC29300B0C52C /* Main.storyboard */,
 				CBB641411F2BC29300B0C52C /* Assets.xcassets */,
 				CBB641431F2BC29300B0C52C /* LaunchScreen.storyboard */,
 				CBB641461F2BC29300B0C52C /* Info.plist */,
 			);
 			path = Quicksaurus;
+			sourceTree = "<group>";
+		};
+		CBFA58151F2E733500250A0D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CBFA58181F2E7FF800250A0D /* Word.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		CBFA581A1F2E885500250A0D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CBFA581B1F2E887A00250A0D /* WordTableViewCell.swift */,
+				CB8561151F30E11800FC0EB2 /* HeaderTableViewCell.swift */,
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +142,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CBB641491F2BC29300B0C52C /* Build configuration list for PBXNativeTarget "Quicksaurus" */;
 			buildPhases = (
+				1DACC4EC8AC2C7BB1783B830 /* [CP] Check Pods Manifest.lock */,
 				CBB641331F2BC29200B0C52C /* Sources */,
 				CBB641341F2BC29200B0C52C /* Frameworks */,
 				CBB641351F2BC29200B0C52C /* Resources */,
+				8432B8FABF6904E85EA4E577 /* [CP] Embed Pods Frameworks */,
+				7C3D1951321FCC652F6CE608 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -124,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB32A83B1F2E5F040038EDD6 /* SF Pro Font License.rtf in Resources */,
+				CB32A83A1F2E5F040038EDD6 /* San Francisco Pro.pkg in Resources */,
 				CBB641451F2BC29300B0C52C /* LaunchScreen.storyboard in Resources */,
 				CBB641421F2BC29300B0C52C /* Assets.xcassets in Resources */,
 				CBB641401F2BC29300B0C52C /* Main.storyboard in Resources */,
@@ -132,13 +208,72 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1DACC4EC8AC2C7BB1783B830 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Quicksaurus-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7C3D1951321FCC652F6CE608 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Quicksaurus/Pods-Quicksaurus-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8432B8FABF6904E85EA4E577 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Quicksaurus/Pods-Quicksaurus-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManagerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NVActivityIndicatorView.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Quicksaurus/Pods-Quicksaurus-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		CBB641331F2BC29200B0C52C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CBB6413D1F2BC29200B0C52C /* ViewController.swift in Sources */,
 				CBB6413B1F2BC29200B0C52C /* AppDelegate.swift in Sources */,
+				CB8561161F30E11800FC0EB2 /* HeaderTableViewCell.swift in Sources */,
+				CBFA581C1F2E887A00250A0D /* WordTableViewCell.swift in Sources */,
+				CBFA58191F2E7FF800250A0D /* Word.swift in Sources */,
+				CB32A8311F2E582B0038EDD6 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +394,7 @@
 		};
 		CBB6414A1F2BC29300B0C52C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA8C161EDC425792BB58A754 /* Pods-Quicksaurus.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9UQ9X6GN24;
@@ -272,6 +408,7 @@
 		};
 		CBB6414B1F2BC29300B0C52C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7FB9BEAFC4ED832278BE879 /* Pods-Quicksaurus.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9UQ9X6GN24;
@@ -302,6 +439,7 @@
 				CBB6414B1F2BC29300B0C52C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
